@@ -1,2 +1,2 @@
 # Bitcoin-Core
- Old version of bitcoin
+ Old versions of bitcoin
